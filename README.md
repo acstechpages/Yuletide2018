@@ -1,11 +1,11 @@
-<head>
+
 <script src="midijs/libtimidity.js" charset="UTF-8"></script>
 <script src="midijs/midi.js" charset="UTF-8"></script>
-</head>
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<a href="carolofthebirds_with_metronome.mid">Carol of the Birds</a>
+<a onclick="MIDIjs.play(carolofthebirds_with_metronome.mid)">Carol of the Birds</a>
 
 ### Markdown
 
