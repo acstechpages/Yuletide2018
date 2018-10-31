@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+[Carol of the Birds](carolofthebirds_with_metronome.mid)
+
 [Link](url) and ![Image](src)
 ```
 
