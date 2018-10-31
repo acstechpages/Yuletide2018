@@ -2,40 +2,15 @@
 <script src="midijs/libtimidity.js" charset="UTF-8"></script>
 <script src="midijs/midi.js" charset="UTF-8"></script>
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Bass/Baritone midi files
 
 <a onclick="MIDIjs.play('carolofthebirds_with_metronome.mid')">Carol of the Birds</a>
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a onclick="MIDIjs.play('indulcijubilo_with_metronome.mid')">In dulci jubilo</a>
 
-```markdown
-Syntax highlighted code block
+<a onclick="MIDIjs.play('ohjerusalem_with_metronome.mid')">Oh, Jerusalem in the Morning</a>
 
-# Header 1
-## Header 2
-### Header 3
+<a onclick="MIDIjs.play('silverbells_with_metronome.mid')">Silver Bells</a>
 
-- Bulleted
-- List
+<a onclick="MIDIjs.play('sleighride_with_metronome.mid')">Sleigh Ride</a>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acstechpages/Yuletide2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
