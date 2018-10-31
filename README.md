@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/acstechpages/Yuletide2018/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Carol of the Birds](carolofthebirds_with_metronome.mid)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Carol of the Birds](carolofthebirds_with_metronome.mid)
+
 
 [Link](url) and ![Image](src)
 ```
