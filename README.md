@@ -7,7 +7,7 @@
 
 Click any of the links to play it in your browser. Click the STOP PLAYBACK link to quit playing. *Oh Jerusalem* is just the baritone line.  All the rest have both the bass and baritone parts included (as divisi). Both parts use a cello voice. Some of the files include a bare outline of a piano introduction or segments of the SA parts.  The latter are sounded with a flute voice.
 
-<a href="carolofthebirds_with_metronome.mid" onclick="MIDIjs.stop() ; MIDIjs.play('carolofthebirds_with_metronome.mid')">Carol of the Birds</a>
+<input type=button onclick="MIDIjs.stop() ; MIDIjs.play('carolofthebirds_with_metronome.mid')">play</input><a href="carolofthebirds_with_metronome.mid">download</a><b>Carol of the Birds</b>
   
     Starts at measure 14.
 
