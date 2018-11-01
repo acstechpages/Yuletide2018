@@ -2,6 +2,10 @@
 <script src="midijs/libtimidity.js" charset="UTF-8"></script>
 
 <script src="midijs/midi.js" charset="UTF-8"></script>
+<style>
+  button {padding-right:1em;}
+  a {padding-right:1em;}
+</style>
 
 # Bass/Baritone midi files
 
