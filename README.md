@@ -13,8 +13,8 @@
   * Click the STOP PLAYBACK button at the bottom of this section to quit playing. 
   * Click the download link to get a copy of the midi file.
 
- ## About these tracks.
- All the track except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusalem*  is just the baritone line (sorry guys, have had time to do both). Both parts use a cello voice. Some of the files include a bare outline of a piano introduction or segments of the SA parts.  The latter are sounded with a flute voice.
+## About these tracks
+All the tracks except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusalem*  is just the baritone line (sorry guys, have had time to do both). Both parts use a cello voice. Some of the files include a bare outline of a piano introduction or segments of the SA parts.  The latter are sounded with a flute voice.
 
 <button type="button" onclick="MIDIjs.stop() ; MIDIjs.play('carolofthebirds_with_metronome.mid')">play</button>
 <a href="carolofthebirds_with_metronome.mid">download</a><b>Carol of the Birds</b>
