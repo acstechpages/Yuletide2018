@@ -59,7 +59,7 @@ All the tracks except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusal
 *part files created by Dennis Goodrum with MuseScore import service.*
 
 <audio controls>
-  <source="Brightest And Best - soprano.mp3" type="audio/mpeg">
+  <source="brightestandbest_soprano.mp3" type="audio/mpeg">
 </audio>Soprano
 
 
