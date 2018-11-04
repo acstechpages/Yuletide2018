@@ -54,10 +54,29 @@ All the tracks except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusal
 *Midi files created by Mike Ellis with [Tbon Music Notation](http://ellisgrant.pythonanywhere.com)*
 
 # Audio (mp3) files
+## How to use
+  * Clicking a part name will play the file in a play window in your browser with the usual audio controls. 
+  * Click the '3 vertical dots' icon at the right of the audio controls if you want to download the file.
+
 
 ## Brightest and Best
-*part files created by Dennis Goodrum with MuseScore import service.*
+Files labeled with just the part name, e.g. 'Tenor' consist of the accompaniment plus that part. Files marked 'Predominant' include the other voice parts at lower volume.
 
 [Soprano](/brightestandbest_soprano.mp3)
 
+[Soprano Predominant](/brightestandbest_soprano_predominant.mp3)
 
+[Alto](/brightestandbest_alto.mp3)
+
+[Alto Predominant](/brightestandbest_alto_predominant.mp3)
+
+[Tenor](/brightestandbest_tenor.mp3)
+
+[Tenor Predominant](/brightestandbest_tenor_predominant.mp3)
+
+[Bass](/brightestandbest_bass.mp3)
+
+[Bass Predominant](/brightestandbest_bass_predominant.mp3)
+
+
+*mp3 files created by Dennis Goodrum with MuseScore import service.*
