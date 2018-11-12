@@ -31,6 +31,11 @@ All the tracks except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusal
 
     Piano intro 4 measures. Our entrance is at measure 5.
 
+<button type="button" onclick="MIDIjs.stop() ; MIDIjs.play('midwinter_with_metronome.mid')">play</button>
+<a href="midwinter_with_metronome.mid">download</a><b>Mid-winter</b>
+
+    Starts measure 7 with SA line in flute voice. Bass/Baritone in cello voice enters measure 11.
+
 <button type="button" onclick="MIDIjs.stop() ; MIDIjs.play('ohjerusalem_with_metronome.mid')">play</button>
 <a href="ohjerusalem_with_metronome.mid">download</a><b>Oh, Jerusalem in the Morning</b>
 
