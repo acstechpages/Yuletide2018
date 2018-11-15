@@ -83,5 +83,19 @@ Files labeled with just the part name, e.g. 'Tenor' consist of the accompaniment
 
 [Bass Predominant](/brightestandbest_bass_predominant.mp3)
 
+*Above mp3 files created by Dennis Goodrum with MuseScore import service.*
 
-*mp3 files created by Dennis Goodrum with MuseScore import service.*
+## Oh, Jerusalem in the Morning
+Voice predominant files for SATB. Parts emphasized by volume, stereo placement and intrument timbre.
+
+[Soprano](/OhJerusalem_soprano_emph.mp3)
+
+[Alto](/OhJerusalem_alto_emph.mp3)
+
+[Tenor](/OhJerusalem_tenor_emph.mp3)
+
+[Baritone](/OhJerusalem_baritone_emph.mp3)
+
+[Bass](/OhJerusalem_bass_emph.mp3)
+
+*Above mp3 files created by Mike Ellis with PhotoScore and Reaper.*
