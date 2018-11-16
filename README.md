@@ -20,8 +20,13 @@ This page is a collaborative effort by various members of the Asheville Choral S
 
 *Want to join the fun and help your fellow singers?  Contact any of the above if you're interested in creating rehearsal tracks, parts sheets or pronunciation guides. We'll be happy to share what we've learned about music software and recording techniques to get you started (or maybe you can teach us a trick or three.)*
 
-# 
-# Audio (mp3) files
+# Contents
+  * [Audio files](#audio-files)
+  * [Midi files](#midi-files)
+  * [Part sheets](#part-sheets) aka condensed scores
+  * [Other Free Resources](#other-free-resources)
+
+# Audio files
 ## How to use
   * Clicking a part name will play the file in a play window in your browser with the usual audio controls. 
   * Click the '3 vertical dots' icon at the right of the audio controls if you want to download the file.
@@ -46,7 +51,6 @@ Files labeled with just the part name, e.g. 'Tenor' consist of the accompaniment
 
 [Bass Predominant](/brightestandbest_bass_predominant.mp3)
 
-*Above mp3 files created by Dennis Goodrum with MuseScore import service.*
 
 ## Oh, Jerusalem in the Morning
 Voice predominant files for SATB. Parts emphasized by volume, stereo placement and intrument timbre.
@@ -61,7 +65,6 @@ Voice predominant files for SATB. Parts emphasized by volume, stereo placement a
 
 [Bass](/OhJerusalem_bass_emph.mp3)
 
-*Above mp3 files created by Mike Ellis with PhotoScore and Reaper.*
 
 # Midi files
 ## How to use
@@ -110,14 +113,19 @@ All the tracks except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusal
 
 <button type="button" onclick="MIDIjs.stop() ;">STOP PLAYBACK</button>
 
-# Part Sheets (aka condensed scores)
+# Part Sheets
 
 ## Soprano
 
 ## Alto
 
 ## Tenor
-   [Link to Google Drive folder](https://drive.google.com/drive/folders/19CcXNk0rJnx5XdVPwfQwkrHrv3vcLZbK)
+  * [Link to Google Drive folder](https://drive.google.com/drive/folders/19CcXNk0rJnx5XdVPwfQwkrHrv3vcLZbK)
 
 ## Bass/Baritone
+
+# Other Free Resources
+  * [ACS Current Season](https://www.youtube.com/playlist?list=PLfAp0QKNuf7fXG4V9vrAQfJ3iomXKwbSL&disable_polymer=true)
+  * [Hallelujah Chorus Parts](https://www.thetabernaclechoir.org/messiah/learn-the-hallelujah-chorus-parts.html)
+  * [Messiah Rehearsal Tracks](https://aarongiles.com/old/wp/2016/11/messiah-rehearsal-tracks/)
 
