@@ -24,6 +24,7 @@ This page is a collaborative effort by various members of the Asheville Choral S
   * [Audio files](#audio-files)
   * [Midi files](#midi-files)
   * [Part sheets](#part-sheets) aka condensed scores
+  * [Pronunciation Guides](#pronunciation-guides)
   * [Other Free Resources](#other-free-resources)
 
 # Audio files
@@ -32,7 +33,7 @@ This page is a collaborative effort by various members of the Asheville Choral S
   * Click the '3 vertical dots' icon at the right of the audio controls if you want to download the file.
 
 
-## Brightest and Best
+### Brightest and Best
 Files labeled with just the part name, e.g. 'Tenor' consist of the accompaniment plus that part. Files marked 'Predominant' include the other voice parts at lower volume.
 
 [Soprano](/brightestandbest_soprano.mp3)
@@ -52,7 +53,7 @@ Files labeled with just the part name, e.g. 'Tenor' consist of the accompaniment
 [Bass Predominant](/brightestandbest_bass_predominant.mp3)
 
 
-## Oh, Jerusalem in the Morning
+### Oh, Jerusalem in the Morning
 Voice predominant files for SATB. Parts emphasized by volume, stereo placement and intrument timbre.
 
 [Soprano](/OhJerusalem_soprano_emph.mp3)
@@ -149,8 +150,11 @@ All the tracks except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusal
   * [Silver Bells](silverbells_bass.pdf)
   * [Sleigh Ride](sleighride_bass.pdf)
 
+# Pronunciation Guides
+  * [Light the Legend](https://youtu.be/piZvEV1QTQM)
+
 # Other Free Resources
-  * [ACS Current Season](https://www.youtube.com/playlist?list=PLfAp0QKNuf7fXG4V9vrAQfJ3iomXKwbSL&disable_polymer=true)
+  * [ACS Current Season YouTube Playlist](https://www.youtube.com/playlist?list=PLfAp0QKNuf7fXG4V9vrAQfJ3iomXKwbSL&disable_polymer=true)
   * [Hallelujah Chorus Parts](https://www.thetabernaclechoir.org/messiah/learn-the-hallelujah-chorus-parts.html)
   * [Messiah Rehearsal Tracks](https://aarongiles.com/old/wp/2016/11/messiah-rehearsal-tracks/)
 
