@@ -116,13 +116,38 @@ All the tracks except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusal
 # Part Sheets
 
 ## Soprano
+  * [Glory to God](glorytogod_soprano.pdf)
+  * [Hallelujah Chorus](hallelujah_soprano.pdf)
+  * [In dulci jubilo](indulcijubilo_soprano.pdf)
+  * [Light the Legend](lightthelegend_soprano.pdf)
+
 
 ## Alto
+  * [Glory to God](glorytogod_alto.pdf)
+  * [Hallelujah Chorus](hallelujah_alto.pdf)
+  * [In dulci jubilo](indulcijubilo_alto.pdf)
+  * [Light the Legend](lightthelegend_alto.pdf)
 
 ## Tenor
-  * [Link to Google Drive folder](https://drive.google.com/drive/folders/19CcXNk0rJnx5XdVPwfQwkrHrv3vcLZbK)
+  * [Glory to God](glorytogod_tenor.pdf)
+  * [Hallelujah Chorus](hallelujah_tenor.pdf)
+  * [In dulci jubilo](indulcijubilo_tenor.pdf)
+  * [Light the Legend](lightthelegend_tenor.pdf)
+  * [more from David Berkey...](https://drive.google.com/drive/folders/19CcXNk0rJnx5XdVPwfQwkrHrv3vcLZbK)
 
 ## Bass/Baritone
+  * [Brightest and Best](/brightestandbest_bass.pdf)
+  * [Carol of the Birds](carolofthebirds_bass.pdf)
+  * [Christmas in about 3 minutes](christmasin3_bass.pdf)
+  * [Glory to God](glorytogod_bass.pdf)
+  * [Hallelujah Chorus](hallelujah_bass.pdf)
+  * [In dulci jubilo](indulcijubilo_bass.pdf)
+  * [Light the Legend](lightthelegend_bass.pdf)
+  * [Mid-winter](midwinter_bass.pdf)
+  * [Oh Jerusalem (baritone)](ojerusalem_baritone-2.pdf)
+  * [Oh Jerusalem (bass)](ojerusalem_bass.pdf)
+  * [Silver Bells](silverbells_bass.pdf)
+  * [Sleigh Ride](sleighride_bass.pdf)
 
 # Other Free Resources
   * [ACS Current Season](https://www.youtube.com/playlist?list=PLfAp0QKNuf7fXG4V9vrAQfJ3iomXKwbSL&disable_polymer=true)
