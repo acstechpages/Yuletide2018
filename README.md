@@ -142,7 +142,6 @@ All the tracks except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusal
   * [Silver Bells](silverbells_tenor.pdf)
   * [Sleigh Ride](sleighride_tenor.pdf)
   * [Welcome Now the Holiday](welcomenow_tenor.pdf)
-  * [more from David Berkey...](https://drive.google.com/drive/folders/19CcXNk0rJnx5XdVPwfQwkrHrv3vcLZbK)
 
 ## Bass/Baritone
   * [Brightest and Best](/brightestandbest_bass.pdf)
