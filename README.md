@@ -132,10 +132,15 @@ All the tracks except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusal
   * [Welcome Now the Holiday](welcomenow_alto.pdf)
 
 ## Tenor
+  * [Brightest and Best](/brightestandbest_tenor.pdf)
   * [Glory to God](glorytogod_tenor.pdf)
   * [Hallelujah Chorus](hallelujah_tenor.pdf)
   * [In dulci jubilo](indulcijubilo_tenor.pdf)
   * [Light the Legend](lightthelegend_tenor.pdf)
+  * [Masters in this Hall](masters_tenor)
+  * [Oh Jerusalem](ojerusalem_tenor.pdf)
+  * [Silver Bells](silverbells_tenor.pdf)
+  * [Sleigh Ride](sleighride_tenor.pdf)
   * [Welcome Now the Holiday](welcomenow_tenor.pdf)
   * [more from David Berkey...](https://drive.google.com/drive/folders/19CcXNk0rJnx5XdVPwfQwkrHrv3vcLZbK)
 
