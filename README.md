@@ -16,6 +16,7 @@ This page is a collaborative effort by various members of the Asheville Choral S
   * Mike Ellis   - Bass Baritone midi files, Oh Jerusalem mp3's all parts, page maintenance,
   * Dennis Goodrum - Brightest and Best mp3's all parts
   * Ellen Sandweiss - Hebrew pronunciation guide recording for Light the Legend
+  * Eric Sootin - midi file and pdf for end of Silver Bells (bass/baritone)
   * Farrel Zehr -- Part sheets for Bass/Baritones (also SAT on some pieces)
 
 *Want to join the fun and help your fellow singers?  Contact any of the above if you're interested in creating rehearsal tracks, parts sheets or pronunciation guides. We'll be happy to share what we've learned about music software and recording techniques to get you started (or maybe you can teach us a trick or three.)*
@@ -107,6 +108,11 @@ All the tracks except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusal
 
     Piano intro (just the upper notes). Our entrance is in measure 11.
 
+<button type="button" onclick="MIDIjs.stop() ; MIDIjs.play('endofsilverbells.mid')">play</button>
+<a href="endofsilverbells.mid">download</a><b>End of Silver Bells</b>
+
+    Just the close harmonies from measure 85 to the end.
+
 <button type="button" onclick="MIDIjs.stop() ; MIDIjs.play('sleighride_with_metronome.mid')">play</button>
 <a href="sleighride_with_metronome.mid">download</a><b>Sleigh Ride</b>
 
@@ -155,6 +161,7 @@ All the tracks except *Oh Jerusalem* are for both bass and baritone. *Oh Jerusal
   * [Oh Jerusalem (baritone)](ojerusalem_baritone-2.pdf)
   * [Oh Jerusalem (bass)](ojerusalem_bass.pdf)
   * [Silver Bells](silverbells_bass.pdf)
+  * [End of Silver Bells](endofsilverbells_bass.pdf)
   * [Sleigh Ride](sleighride_bass.pdf)
   * [Welcome Now the Holiday](welcomenow_bass.pdf)
 
